@@ -16,7 +16,6 @@ Hello world! My name is Yuval and I'm a software guy who's into many languages a
   * :coffee: Java
   * 🟪 Kotlin
   * 🟥 Ruby
-* 🌱 Also trying to learn: C/C++, AI
 * :robot: [FRC](https://www.firstinspires.org/robotics/frc):
   * Alum: [Spikes #2212](https://www.thebluealliance.com/team/2212) (class of 2016)
   * Mentored in: [Red Pirates #4661](https://www.thebluealliance.com/team/4661)
