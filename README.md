@@ -6,13 +6,14 @@
 
 Hello world! My name is Yuval and I'm a software guy who's into many languages and technologies.
 
-* 🎓 Currently getting my software engineering degree in BGU, Be'er Sheva :desert:, Israel :israel:
+* 🔵 C#/WPF/ASP.NET developer in 🐯[Bagira Systems](https://www.bagirasys.com/)
+* 🎓 Software engineering degree in BGU, Be'er Sheva :desert:, Israel :israel:
 * 👷 Experience in employment:
   * :large_blue_circle: C# & WPF
   * :snake: Python & Kivy
 * 💟 I also like:
   * 🟨 JS & 🟦 TS
-  * :globe_with_meridians: Web front-end
+  * :globe_with_meridians: Web front-end (especially 🅰 Angular)
   * :coffee: Java
   * 🟪 Kotlin
   * 🟥 Ruby
